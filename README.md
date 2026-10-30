@@ -1,9 +1,7 @@
 > [!NOTE]
-> **🔧 Active Development** — Legesher is undergoing a major architecture update. The repositories in this organization represent the open source foundation that the next release will build on. A unified release with significant improvements from recent user testing is in progress and will be open-sourced in 2026.
+> This is the original public repository for Legesher. Active development has moved to **[github.com/legesher/legesher](https://github.com/legesher/legesher)**.
 >
-> Follow along at **[legesher.io](https://legesher.io)** or join the community on **[Slack](https://legesher.io/go/slack)**.
->
-> This repo's current state is pinned as the legacy release (`v0.1.0-legacy`) for reference.
+> This repository's state is pinned as the legacy release (`v0.1.0-legacy`) for reference. Follow along at **[legesher.io](https://legesher.io)** or join the community on **[Slack](https://legesher.io/go/slack)**.
 
 ---
 
